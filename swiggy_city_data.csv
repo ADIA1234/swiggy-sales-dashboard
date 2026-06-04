@@ -1,0 +1,21 @@
+city,state,revenue_rs_lakhs,orders_lakhs,avg_order_value_rs,pct_of_total_revenue,active_restaurants,active_users_lakhs,avg_delivery_min,city_tier
+Mumbai,Maharashtra,2240,452,316,15.1,28640,142.4,28.4,Tier 1
+Delhi NCR,Delhi/NCR,1980,398,322,13.4,26180,124.8,29.2,Tier 1
+Bengaluru,Karnataka,1760,344,331,11.9,22840,108.6,27.8,Tier 1
+Hyderabad,Telangana,1120,218,308,7.6,14620,68.4,30.1,Tier 1
+Pune,Maharashtra,890,174,310,6.0,11480,54.2,29.6,Tier 1
+Chennai,Tamil Nadu,840,166,307,5.7,10840,51.8,30.8,Tier 1
+Kolkata,West Bengal,780,154,305,5.3,10120,48.4,31.2,Tier 1
+Ahmedabad,Gujarat,620,124,302,4.2,8040,38.8,31.8,Tier 2
+Jaipur,Rajasthan,520,104,303,3.5,6740,32.4,32.4,Tier 2
+Chandigarh,Punjab,460,92,304,3.1,5980,28.6,31.6,Tier 2
+Lucknow,Uttar Pradesh,420,84,302,2.8,5440,26.2,33.2,Tier 2
+Surat,Gujarat,380,76,301,2.6,4920,23.8,33.8,Tier 2
+Kochi,Kerala,340,68,300,2.3,4420,21.2,30.4,Tier 2
+Bhopal,Madhya Pradesh,290,58,299,1.9,3760,18.0,34.2,Tier 2
+Nagpur,Maharashtra,270,54,300,1.8,3500,16.8,33.6,Tier 2
+Indore,Madhya Pradesh,260,52,298,1.8,3380,16.2,33.4,Tier 2
+Patna,Bihar,180,36,294,1.2,2340,11.2,36.2,Tier 3
+Bhubaneswar,Odisha,160,32,293,1.1,2080,10.0,35.8,Tier 3
+Coimbatore,Tamil Nadu,150,30,292,1.0,1940,9.4,34.8,Tier 3
+Others,Various,430,86,296,2.9,5580,27.0,35.6,Tier 3

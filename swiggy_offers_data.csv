@@ -1,0 +1,10 @@
+offer_type,total_orders_lakhs,gross_revenue_rs_lakhs,discount_given_rs_lakhs,net_revenue_rs_lakhs,discount_pct,avg_order_value_rs,repeat_order_rate_pct
+Flat 50% Off (cap Rs.100),48.2,1680,218,1462,13.0,349,42.4
+Free Delivery,81.4,2860,94,2766,3.3,351,38.6
+Bank Card Offers,34.1,1420,162,1258,11.4,416,44.8
+Swiggy One Loyalty,62.3,2480,134,2346,5.4,398,68.2
+New User Discount,18.4,520,108,412,20.8,283,24.6
+Weekday Specials,21.9,840,64,776,7.6,384,36.4
+BOGO Offers,12.6,480,86,394,17.9,381,38.8
+Flash Sale,8.4,280,62,218,22.1,333,28.4
+No Offer,694.7,4260,0,4260,0.0,613,52.6
