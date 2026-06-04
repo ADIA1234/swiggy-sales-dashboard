@@ -1,6 +1,6 @@
 # 🧡 Swiggy Sales Dashboard — FY 2024–25
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard%20Preview.png)
 
 > An end-to-end sales analytics project for Swiggy India — built with **Excel**, **SQL**, and **Power BI**  
 > Covers 2.84 Crore+ orders · ₹14,820 Lakhs Gross Revenue · April 2024 – March 2025
